@@ -1,10 +1,10 @@
-## calculater  | an advance calculater with javavscript & opp
+## calculater  | an advance calculater with javavscript & oop
 - 🙋‍♀️Developed by Bita Shahsavan
 - 📧Contact with me : <a href="https://www.linkedin.com/in/bita-shahsavan-830471299/" rel="nofollow">LINKEDIN</a>
 - 📆Created : ‎July , ‎2024
 - ✔Technologies : Html , Css , javascript 
 
-#### An advanced engineering calculater with opp & js
+#### An advanced engineering calculater with oop & js
 
 # 📸 Screenshot
 [![4.png](https://i.postimg.cc/sxJ5PwF9/4.png)](https://postimg.cc/Mfvcq0pv)
